@@ -1,3 +1,3 @@
 # legendary-octo-potato
 
-hello world and octocat!
+hello world and octo-potato
